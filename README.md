@@ -20,8 +20,8 @@ Events are stored in the `./data/hackrva.sqlite` file.
 ## Results
 
 * The output HTML is in the `html/<monthname>.html` folder
-* Upload both the html and png files to the HackRVA.org wiki "media" area
-* Create a Post which points to the `<monthname`>.html` URL in the "media" area
+* Upload both the html and png files to the HackRVA.org wiki "Media" area
+* Create a Post which points to the `<monthname`>.html` URL in the "Media" area
 
 ## Design Notes
 
@@ -74,5 +74,5 @@ Events are stored in the `./data/hackrva.sqlite` file.
 * template/ - html fragments for the newsletter's HTML
   * NOTE: the files are joined in alphabetical order
   * NOTE: the `event-header.htm` and `event.htm` have `{{macro}}` fields that are expanded for each event
-  
+
 
