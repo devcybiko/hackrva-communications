@@ -1,8 +1,11 @@
 {
-    "month": "November",
+    "month": "December",
+    "welcomeImageURL": "december.png",
+    "mindate": "2022-12-01",
+    "maxdate": "2022-12-31",
+    
     "blogURL": "https://www.hackrva.org/blog/",
     "meetupURL": "https://www.meetup.com/hackrva-meetup/",
-    "welcomeImageURL": "https://www.hackrva.org/wp-content/uploads/2022/10/Screen-Shot-2022-10-21-at-1.14.54-AM.png",
     "titleImageURL": "https://www.hackrva.org/wp-content/uploads/2022/10/hackrva.png",
     "email": "info@hackrva.org",
     "phone": "(no phone)",

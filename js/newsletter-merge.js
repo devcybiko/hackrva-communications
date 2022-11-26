@@ -8,9 +8,7 @@ const glstools = require('glstools');
 const gprocs = glstools.procs;
 const gstrings = glstools.strings;
 const gfiles = glstools.files;
-const fs = require("fs");
-const path = require("path");
-var strftime = require('strftime') // not required in browsers
+const strftime = require('strftime') // not required in browsers
 
 let topTemplates = ["00a-head.htm", "00b-body.htm", "01-preheader.htm", "02-header.htm", "03-welcome.htm"];
 let bottomTemplates = ["05-cta.htm", "06-social.htm", "07-footer.htm", "99-end.htm"];
@@ -46,14 +44,14 @@ function merge(lines, values) {
 
 function translateEvent(event, values) {
     pageInfo = {};
-    pageInfo.eventId = event.id;
+    pageInfo.eventId = event.eventId;
     pageInfo.month = values.month;
     pageInfo.blogURL = values.blogURL;
-    pageInfo.eventTitle = event.name;
-    pageInfo.eventDescription = cleanText(event.description);
-    pageInfo.eventPrice = event.price;
-    pageInfo.eventURL = event.link;
-    let edate = new Date(event.date + "T" + event.time);
+    pageInfo.eventTitle = event.eventName;
+    pageInfo.eventDescription = cleanText(event.eventDescription);
+    pageInfo.eventPrice = event.eventPrice;
+    pageInfo.eventURL = event.eventURL;
+    let edate = new Date(event.eventDate + "T" + event.eventTime);
     pageInfo.eventDOW = strftime("%A", edate);
     pageInfo.eventDate = strftime('%B %e, %Y', edate);;
     pageInfo.eventTime = strftime('%l:%M %p', edate);
@@ -71,9 +69,9 @@ function cleanText(s) {
 function makeTOC(events) {
     let toc = "<ul>";
     for(let event of events) {
-        let edate = new Date(event.date + "T" + event.time);
+        let edate = new Date(event.eventDate + "T" + event.eventTime);
         let eventDate = strftime('%B %e, %Y', edate);;
-        toc += "<li><a href='#" + event.id + "'>" + event.name + " (" + eventDate + ")</li>";
+        toc += "<li><a href='#" + event.eventId + "'>" + event.eventName + " (" + eventDate + ")</li>";
     }
     toc += "</ul>";
     return toc;
@@ -82,15 +80,15 @@ function makeTOC(events) {
 async function main$(_opts) {
     let opts = _opts || gprocs.args("", "infile*");
     let events = gfiles.readJSON(opts.infile);
-    let values = gfiles.readJSON("./values.json");
+    let newsletterConfig = gfiles.readJSON("./newsletter.json");
     outputTemplates(output, topTemplates);
     let toc = gfiles.read(tocTemplate);
     let tocs = merge([toc], {toc: makeTOC(events)});
     output.push(tocs[0]);
     let lastDate = "";
     for(let event of events) {
-        let eventValues = translateEvent(event, values);
-        let date = event.date;
+        let eventValues = translateEvent(event, newsletterConfig);
+        let date = event.eventDate;
         if (date !== lastDate) {
             lastDate = date;
             let header = gfiles.read(eventeHeaderTemplate);
@@ -102,7 +100,7 @@ async function main$(_opts) {
         output.push(templates[0]);
     }
     outputTemplates(output, bottomTemplates);
-    merge(output, values);
+    merge(output, newsletterConfig);
 
     for(let line of output) {
         console.log(line);

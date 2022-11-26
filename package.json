@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "glstools": "^1.8.0",
+    "sequelize": "^6.25.8",
+    "sqlite3": "^5.1.2",
     "strftime": "^0.10.1"
   }
 }
