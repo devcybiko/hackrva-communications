@@ -66,7 +66,7 @@ Events are stored in the `./data/hackrva.sqlite` file.
 ## Folder Structure
 * data/ - holds the `sqlite3` database
 * html/*.html - the resultant monthly newsletters are stored here
-* html/*.png - the monthly 'header' .png files go here, too
+* html/*.png - the monthly 'header' .png files go here. YOU supply them.
 * js/ - javascript files
   * models/ - table definition for the tables. (Event.js)
 * monthly-json/ - temporary storage for each month's events in JSON format
