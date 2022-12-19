@@ -6,45 +6,21 @@
 
 const glstools = require('glstools');
 const gfiles = glstools.files;
+const gprocs = glstools.procs;
 const strftime = require('strftime') // not required in browsers
 const config = require("./config.js");
 const Models = require('./models/index.js');
 let models;
 
-async function updateDatabase$(events) {
-    for (let event of events) {
-        let currentEvent = {};
-        currentEvent.eventId = event.id;
-        currentEvent.eventName = event.name;
-        currentEvent.eventDate = event.local_date;
-        currentEvent.eventTime = event.local_time;
-        currentEvent.eventIsOnline = event.is_online_event;
-        currentEvent.eventURL = event.link;
-        currentEvent.eventPrice = event.fee ? event.fee.amount : "free";
-        currentEvent.eventDescription = event.description;
-        currentEvent.json = {};
-        let venue = event.venue;
-        if (venue) {
-            if (venue.id) delete venue.id;
-            if (venue.lat) delete venue.lat;
-            if (venue.lon) delete venue.lon;
-            if (venue.repinned) delete venue.repinned;
-            currentEvent.json = {venue};
-        }
-        let item = await models.Event.update$(currentEvent);
-        if (item.error) {
-            console.error("ERROR: ", item);
-        }
-    }
-}
 async function main$(_opts) {
+    let opts = _opts || gprocs.args("--autodate", "");
     let newsletterConfig = gfiles.readJSON("newsletter.json");
     let now = new Date();
     models = await Models(config);
-    if (!newsletterConfig.mindate) {
+    if ((!newsletterConfig.mindate) || opts.autodate) {
         newsletterConfig.mindate = strftime('%Y-%m-%d', now);
     }
-    if (!newsletterConfig.maxdate) {
+    if ((!newsletterConfig.maxdate) || opts.autodate) {
         newsletterConfig.maxdate = strftime('%Y-%m-%d', new Date(now.getTime() + 31 * 24 * 3600 * 1000));
     }
     let events = await models.Event.findByDateRange$(newsletterConfig.mindate, newsletterConfig.maxdate);

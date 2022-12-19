@@ -1,8 +1,8 @@
 {
-    "month": "December",
-    "welcomeImageURL": "december.png",
-    "mindate": "2022-12-01",
-    "maxdate": "2022-12-31",
+    "month": "January",
+    "welcomeImageURL": "january.png",
+    "mindate": "2022-12-18",
+    "maxdate": "2023-01-31",
     
     "blogURL": "https://www.hackrva.org/blog/",
     "meetupURL": "https://www.meetup.com/hackrva-meetup/",
