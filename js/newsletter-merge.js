@@ -105,6 +105,13 @@ async function main$(_opts) {
     for(let line of output) {
         console.log(line);
     }
+
+    console.error(`
+    *** WORDPRESS BLOG POST***
+    
+    Direct Link: <a href="{URL}">${newsletterConfig.month} Newsletter</a>
+
+    <iframe src="{URL}" title="HackRVA ${newsletterConfig.month} Newsletter" width="100%" height="1000px"></iframe>`)
 }
 
 module.exports = { main$ }

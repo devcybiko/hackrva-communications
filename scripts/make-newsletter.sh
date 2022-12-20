@@ -26,5 +26,9 @@ curl https://api.meetup.com/hackrva-meetup/events | jq > events.json
 ./js/update-database.js events.json
 ./js/extract-events.js  > monthly-json/$month.json
 ./js/newsletter-merge.js monthly-json/$month.json > html/$month.html
+<<<<<<< Updated upstream
 ./scripts/make-widget.sh
 open html/$month.html
+=======
+open html/$month.html
+>>>>>>> Stashed changes
