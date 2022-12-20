@@ -47,9 +47,11 @@ async function main$(_opts) {
     models = await Models(config);
 
     if (!opts.mindate) {
+        /// is this needed now?
         opts.mindate = strftime('%Y-%m-%d', now);
     }
     if (!opts.maxdate) {
+        /// is this needed now?
         opts.maxdate = strftime('%Y-%m-%d', new Date(now.getTime() + 31 * 24 * 3600 * 1000));
     }
     await updateDatabase$(events);
