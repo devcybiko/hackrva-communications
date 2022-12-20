@@ -33,24 +33,28 @@ function merge(lines, values) {
 
 function makeTOC(events) {
     let toc = "";
+    let now = new Date();
     for(let event of events) {
         let edate = new Date(event.eventDate + "T" + event.eventTime);
         let month = strftime("%m", edate).trim();
         let day = strftime("%d", edate).trim();
         let hour = strftime("%l", edate).trim();
         let mins = strftime('%M', edate).trim();
-        let ampm = strftime("%P").trim();
+        let ampm = strftime("%P", edate).trim();
         let eventName = event.eventName.replaceAll(/[:].*/g, "");
         let eventDate;
         if (mins == '000') eventDate = `${month}/${day} ${hour}${ampm}`;
         else eventDate = `${month}/${day} ${hour}${mins}${ampm}`;
-        toc += `${eventDate}: <a target=meetup href='${event.eventURL}'>${eventName}</a><br>`;
+        if (now.getTime() > edate.getTime()) {
+            toc += `${eventDate}: <b>${eventName}</b><br>`;
+        } else {
+            toc += `${eventDate}: <a target=meetup href='${event.eventURL}'>${eventName}</a><br>`;
+        }
     }
     toc = toc.replaceAll("HackRVA", "");
     toc = toc.replaceAll("Monthly", "");
     toc = toc.replaceAll("!", "");
     toc = toc.replaceAll(/[(].*[)]/g, "");
-    toc += "<br>"
     return toc;
 }
 
