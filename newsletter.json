@@ -1,11 +1,7 @@
 {
     "month": "January",
     "welcomeImageURL": "january.png",
-<<<<<<< Updated upstream
-    "mindate": "2022-12-18",
-=======
     "mindate": "2023-01-01",
->>>>>>> Stashed changes
     "maxdate": "2023-01-31",
     
     "blogURL": "https://www.hackrva.org/blog/",
@@ -15,5 +11,11 @@
     "phone": "(no phone)",
     "addr1": "HackRVA",
     "addr2": "3404 W. Moore St",
-    "addr3": "Richmond, VA 23230"
+    "addr3": "Richmond, VA 23230",
+    "meetupEmail": "HackRVA-Meetup-announce@meetup.com",
+    "ses": {
+        "Region": "us-east-1",
+        "credentials": "devcybiko",
+        "replyToAddress": "gregory@greg-smith.com"
+    }
 }
