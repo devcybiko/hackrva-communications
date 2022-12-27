@@ -18,11 +18,23 @@ async function main$(_opts) {
     let now = new Date();
     models = await Models(config);
     if ((!newsletterConfig.mindate) || opts.autodate) {
-        newsletterConfig.mindate = strftime('%Y-%m-%d', now);
+        let month = now.getMonth()+1;
+        let day = now.getDate();
+        let year = now.getFullYear();
+        let then = new Date(`${year}-${month}-01`);
+        then = new Date(then.getTime() + 5 * 3600 * 1000); // adjust for EST
+        newsletterConfig.mindate = strftime('%Y-%m-%d', then);
     }
     if ((!newsletterConfig.maxdate) || opts.autodate) {
-        newsletterConfig.maxdate = strftime('%Y-%m-%d', new Date(now.getTime() + 31 * 24 * 3600 * 1000));
+        let month = now.getMonth()+1;
+        let day = now.getDate();
+        let year = now.getFullYear();
+        let then = new Date(`${year}-${month}-31`)
+        if (day > 18) then = new Date(then.getTime() + 14 * 24 * 3600 * 1000)
+        then = new Date(then.getTime() + 5 * 3600 * 1000); // adjust for EST
+        newsletterConfig.maxdate = strftime('%Y-%m-%d', then);
     }
+    console.error(newsletterConfig)
     let events = await models.Event.findByDateRange$(newsletterConfig.mindate, newsletterConfig.maxdate);
     console.log(JSON.stringify(events, null, 2));
 }

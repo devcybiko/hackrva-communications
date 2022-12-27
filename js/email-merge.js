@@ -10,7 +10,7 @@ const gstrings = glstools.strings;
 const gfiles = glstools.files;
 const strftime = require('strftime') // not required in browsers
 
-let tocTemplate = "template/widget.htm";
+let tocTemplate = "template/email.htm";
 
 let output = [];
 
@@ -62,7 +62,9 @@ async function main$(_opts) {
     let opts = _opts || gprocs.args("", "infile*");
     let events = gfiles.readJSON(opts.infile);
     let toc = gfiles.read(tocTemplate);
-    let tocs = merge([toc], {toc: makeTOC(events)});
+    let now = new Date();
+    let month = strftime("%B", now);
+    let tocs = merge([toc], {toc: makeTOC(events), month});
     output.push(tocs[0]);
 
     for(let line of output) {
