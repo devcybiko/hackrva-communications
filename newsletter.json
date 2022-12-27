@@ -1,11 +1,7 @@
 {
     "month": "January",
     "welcomeImageURL": "january.png",
-<<<<<<< Updated upstream
-    "mindate": "2022-12-18",
-=======
     "mindate": "2023-01-01",
->>>>>>> Stashed changes
     "maxdate": "2023-01-31",
     
     "blogURL": "https://www.hackrva.org/blog/",
