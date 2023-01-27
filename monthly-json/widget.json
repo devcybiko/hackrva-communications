@@ -143,11 +143,11 @@
     "eventIsOnline": "1",
     "json": {
       "venue": {
-        "name": "Online event",
-        "country": "",
-        "localized_country_name": "",
+        "name": "HackRVA Makerspace",
         "address_1": "1600E Roseneath Rd",
         "city": "Richmond",
+        "country": "us",
+        "localized_country_name": "USA",
         "zip": "23230",
         "state": "VA"
       }
