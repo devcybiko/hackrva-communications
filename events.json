@@ -12,7 +12,7 @@
     "local_time": "18:30",
     "updated": 1666332563000,
     "utc_offset": -18000000,
-    "waitlist_count": 1,
+    "waitlist_count": 2,
     "yes_rsvp_count": 25,
     "is_online_event": true,
     "group": {
@@ -4107,6 +4107,49 @@
     "link": "https://www.meetup.com/hackrva-meetup/events/qlzrxsygccbpb/",
     "description": "<p>Come show off a project, socialize, or just hang out. Thinking about becoming a member, come on in, and tour the space. All are welcome! Thursday night has always been our social night when members hang out together. There is no program, agenda, or activity for open house. We just hang out and we invite you to come and sit with us, and get a tour if you like.</p> <p>You may park in our lot.</p> <p>Hack.RVA is a member-run non-profit makerspace located in the Scott’s Addition neighborhood of Richmond, Virginia. We’re essentially a space filled with tools, computers, and people who like to build, invent, tinker, learn new skills and expand their minds. In our space you’ll find people into electronics, robots, wood working, embedded software, metal working, music, art, video, photography, 3D printing, sewing, textiles, virtual reality, gaming, lasers and much more.</p> <p>If you'd like to get some orientation about what HackRVA is and what we do before visiting, please check out our website at hackrva.org (<a href=\"http://www.hackrva.org\" class=\"linkified\">http://www.hackrva.org</a>).</p> ",
     "how_to_find_us": "We're behind the Dairy Bar in Scott's Addition. Set your GPS for 3420 W Moore St, Richmond, VA 23230. The official address will take you to the wrong side of the building.",
+    "visibility": "public",
+    "member_pay_fee": false
+  },
+  {
+    "created": 1666332563000,
+    "duration": 7200000,
+    "id": "jjgfzsygccbnc",
+    "name": "Open Code: log in and code",
+    "rsvp_limit": 25,
+    "date_in_series_pattern": false,
+    "status": "upcoming",
+    "time": 1706657400000,
+    "local_date": "2024-01-30",
+    "local_time": "18:30",
+    "updated": 1666332563000,
+    "utc_offset": -18000000,
+    "waitlist_count": 0,
+    "yes_rsvp_count": 0,
+    "venue": {
+      "id": 26906060,
+      "name": "Online event",
+      "repinned": false,
+      "country": "",
+      "localized_country_name": ""
+    },
+    "is_online_event": true,
+    "group": {
+      "created": 1377137175000,
+      "name": "HackRVA-Meetup",
+      "id": 9916162,
+      "join_mode": "open",
+      "lat": 37.59000015258789,
+      "lon": -77.5,
+      "urlname": "hackrva-meetup",
+      "who": "Makers",
+      "localized_location": "Richmond, VA",
+      "state": "VA",
+      "country": "us",
+      "region": "en_US",
+      "timezone": "US/Eastern"
+    },
+    "link": "https://www.meetup.com/hackrva-meetup/events/jjgfzsygccbnc/",
+    "description": "<p>This is an online event, and we will send the link to all who RSVP when the time is near.</p> <p>All are welcome, whether just starting out or level 9000!<br/>Come on in, jam on some code. Bring your project or work through an online tutorial. We recommend freecodecamp.org</p> <p>Time is 630pm to 830pm -- the last Tuesday of the month.<br/>There will be code knowledgeable people around for explanation or conversation. We will try to help each other with what we know, sharing tips and tools. Happy hacking!</p> ",
     "visibility": "public",
     "member_pay_fee": false
   }
