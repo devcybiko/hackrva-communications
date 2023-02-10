@@ -23,6 +23,11 @@ Events are stored in the `./data/hackrva.sqlite` file.
 * Upload both the html and png files to the HackRVA.org wiki "Media" area
 * Create a Post which points to the `<monthname`>.html` URL in the "Media" area
 
+## EMAIL
+You can get an abbreviated newsletter with ./scripts/make-email.sh
+
+Send to : HackRVA-Meetup-list@meetup.com
+
 ## Design Notes
 
 ### Getting the Meetup Events
