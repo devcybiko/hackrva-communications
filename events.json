@@ -12,7 +12,7 @@
     "updated": 1677151343000,
     "utc_offset": -18000000,
     "waitlist_count": 0,
-    "yes_rsvp_count": 30,
+    "yes_rsvp_count": 32,
     "is_online_event": true,
     "group": {
       "created": 1377137175000,
@@ -4095,6 +4095,48 @@
     },
     "link": "https://www.meetup.com/hackrva-meetup/events/phtdzsygcdbsb/",
     "description": "<p>Come to Hack.RVA for a night of hardware and electronics on the second Wednesday of the month. We bring our projects to share and problems to discuss with the group. If you're new to electronics, this is a great opportunity to ask questions and learn; let us know what you want to learn more about in the RSVP and we'll help get you some answers.</p> ",
+    "visibility": "public",
+    "member_pay_fee": false
+  },
+  {
+    "created": 1677151343000,
+    "duration": 7200000,
+    "id": "vswkctygcdbkc",
+    "name": "Open Code: log in and code",
+    "date_in_series_pattern": false,
+    "status": "upcoming",
+    "time": 1709076600000,
+    "local_date": "2024-02-27",
+    "local_time": "18:30",
+    "updated": 1677151343000,
+    "utc_offset": -18000000,
+    "waitlist_count": 0,
+    "yes_rsvp_count": 0,
+    "venue": {
+      "id": 26906060,
+      "name": "Online event",
+      "repinned": false,
+      "country": "",
+      "localized_country_name": ""
+    },
+    "is_online_event": true,
+    "group": {
+      "created": 1377137175000,
+      "name": "HackRVA-Meetup",
+      "id": 9916162,
+      "join_mode": "open",
+      "lat": 37.59000015258789,
+      "lon": -77.5,
+      "urlname": "hackrva-meetup",
+      "who": "Makers",
+      "localized_location": "Richmond, VA",
+      "state": "VA",
+      "country": "us",
+      "region": "en_US",
+      "timezone": "US/Eastern"
+    },
+    "link": "https://www.meetup.com/hackrva-meetup/events/vswkctygcdbkc/",
+    "description": "<p>This is an online event, and we will send the link to all who RSVP when the time is near.</p> <p>All are welcome, whether just starting out or level 9000!<br/>Come on in, jam on some code. Bring your project or work through an online tutorial. We recommend freecodecamp.org</p> <p>Time is 630pm to 830pm -- the last Tuesday of the month.<br/>There will be code knowledgeable people around for explanation or conversation. We will try to help each other with what we know, sharing tips and tools. Happy hacking!</p> ",
     "visibility": "public",
     "member_pay_fee": false
   }
