@@ -176,6 +176,28 @@
     }
   },
   {
+    "id": 131,
+    "eventId": "vswkctyfcdblc",
+    "eventName": "Open Code: log in and code",
+    "eventDescription": "<p>This is an online event, and we will send the link to all who RSVP when the time is near.</p> <p>All are welcome, whether just starting out or level 9000!<br/>Come on in, jam on some code. Bring your project or work through an online tutorial. We recommend freecodecamp.org</p> <p>Time is 630pm to 830pm -- the last Tuesday of the month.<br/>There will be code knowledgeable people around for explanation or conversation. We will try to help each other with what we know, sharing tips and tools. Happy hacking!</p> ",
+    "eventPrice": "free",
+    "eventURL": "https://www.meetup.com/hackrva-meetup/events/vswkctyfcdblc/",
+    "eventDate": "2023-02-28",
+    "eventTime": "18:30",
+    "eventIsOnline": "1",
+    "json": {
+      "venue": {
+        "name": "HackRVA Makerspace",
+        "address_1": "1600E Roseneath Rd",
+        "city": "Richmond",
+        "country": "us",
+        "localized_country_name": "USA",
+        "zip": "23230",
+        "state": "VA"
+      }
+    }
+  },
+  {
     "id": 29,
     "eventId": "vqxhnsyfcfbcb",
     "eventName": "HackRVA Space Improvement",
