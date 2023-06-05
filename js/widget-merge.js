@@ -9,6 +9,7 @@ const gprocs = glstools.procs;
 const gstrings = glstools.strings;
 const gfiles = glstools.files;
 const strftime = require('strftime') // not required in browsers
+const fetch = require('node-fetch');
 
 let tocTemplate = "template/widget.htm";
 
@@ -31,10 +32,19 @@ function merge(lines, values) {
     return lines;
 }
 
-function makeTOC(events) {
+async function checkURL(url) {
+    console.error("Checking...", url);
+    let settings = { method: "Get" };
+    let response = await fetch(url, settings);
+    return response.status === 200;
+}
+
+async function makeTOC(events) {
     let toc = "";
     let now = new Date();
     for(let event of events) {
+        let goodURL = await checkURL(event.eventURL);
+        if (!goodURL) continue;
         let edate = new Date(event.eventDate + "T" + event.eventTime);
         let month = strftime("%m", edate).trim();
         let day = strftime("%d", edate).trim();
@@ -62,7 +72,7 @@ async function main$(_opts) {
     let opts = _opts || gprocs.args("", "infile*");
     let events = gfiles.readJSON(opts.infile);
     let toc = gfiles.read(tocTemplate);
-    let tocs = merge([toc], {toc: makeTOC(events)});
+    let tocs = merge([toc], {toc: await makeTOC(events)});
     output.push(tocs[0]);
 
     for(let line of output) {

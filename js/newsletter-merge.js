@@ -9,6 +9,7 @@ const gprocs = glstools.procs;
 const gstrings = glstools.strings;
 const gfiles = glstools.files;
 const strftime = require('strftime') // not required in browsers
+const fetch = require('node-fetch');
 
 let topTemplates = ["00a-head.htm", "00b-body.htm", "01-preheader.htm", "02-header.htm", "03-welcome.htm"];
 let bottomTemplates = ["05-cta.htm", "06-social.htm", "07-footer.htm", "99-end.htm"];
@@ -66,9 +67,11 @@ function cleanText(s) {
     return s;
 }
 
-function makeTOC(events) {
+async function makeTOC(events) {
     let toc = "<ul>";
     for(let event of events) {
+        let goodURL = await checkURL(event.eventURL);
+        if (!goodURL) continue;
         let edate = new Date(event.eventDate + "T" + event.eventTime);
         let eventDate = strftime('%B %e, %Y', edate);;
         toc += "<li><a href='#" + event.eventId + "'>" + event.eventName + " (" + eventDate + ")</li>";
@@ -77,18 +80,27 @@ function makeTOC(events) {
     return toc;
 }
 
+async function checkURL(url) {
+    console.error("Checking...", url);
+    let settings = { method: "Get" };
+    let response = await fetch(url, settings);
+    return response.status === 200;
+}
+
 async function main$(_opts) {
     let opts = _opts || gprocs.args("", "infile*");
     let events = gfiles.readJSON(opts.infile);
     let newsletterConfig = gfiles.readJSON("./newsletter.json");
     outputTemplates(output, topTemplates);
     let toc = gfiles.read(tocTemplate);
-    let tocs = merge([toc], {toc: makeTOC(events)});
+    let tocs = merge([toc], {toc: await makeTOC(events)});
     output.push(tocs[0]);
     let lastDate = "";
     for(let event of events) {
         let eventValues = translateEvent(event, newsletterConfig);
         let date = event.eventDate;
+        let goodURL = await checkURL(eventValues.eventURL)
+        if (!goodURL) continue;
         if (date !== lastDate) {
             lastDate = date;
             let header = gfiles.read(eventeHeaderTemplate);
