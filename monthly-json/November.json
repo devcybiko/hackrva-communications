@@ -1,12 +1,12 @@
 [
   {
-    "id": 67,
-    "eventId": "hckxctygccbfb",
+    "id": 52,
+    "eventId": "hckxctyfcpbcb",
     "eventName": "HackRVA Space Improvement",
     "eventDescription": "<p>Once a month, we ask members to come in to work on our shared workspace, and concentrate on this project we all share. We have no staff, so that means WE are the staff.<br/>Tasks can include, but are not limited to: cleaning up, working on the website/wiki, identifying and fixing/labeling equipment, developing training processes, and a lot more! Take a look around, and find anything out of place, whether tools or trash, and deal with it.</p> ",
     "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hckxctygccbfb/",
-    "eventDate": "2024-01-03",
+    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hckxctyfcpbcb/",
+    "eventDate": "2023-11-01",
     "eventTime": "19:00",
     "eventIsOnline": "0",
     "json": {
@@ -22,13 +22,13 @@
     }
   },
   {
-    "id": 182,
-    "eventId": "hjrpftygccbfb",
+    "id": 171,
+    "eventId": "hjrpftyfcpbcb",
     "eventName": "HackRVA Space Improvement",
     "eventDescription": "<p>Once a month, we ask members to come in to work on our shared workspace, and concentrate on this project we all share. We have no staff, so that means WE are the staff.<br/>This month we will continue setting up the new space.</p> ",
     "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hjrpftygccbfb/",
-    "eventDate": "2024-01-03",
+    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hjrpftyfcpbcb/",
+    "eventDate": "2023-11-01",
     "eventTime": "19:00",
     "eventIsOnline": "0",
     "json": {
@@ -44,35 +44,13 @@
     }
   },
   {
-    "id": 250,
-    "eventId": "ngkwgtygccbfb",
-    "eventName": "HackRVA Space Improvement",
-    "eventDescription": "<p>Once a month, we ask members to come in to work on our shared workspace, and concentrate on this project we all share. We have no staff, so that means WE are the staff.</p> <p>This month we will continue setting up the new space.</p> ",
-    "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/ngkwgtygccbfb/",
-    "eventDate": "2024-01-03",
-    "eventTime": "19:00",
-    "eventIsOnline": "0",
-    "json": {
-      "venue": {
-        "name": "2026a Dabney Rd",
-        "address_1": "2026a Dabney Rd",
-        "city": "Richmond",
-        "country": "us",
-        "localized_country_name": "USA",
-        "zip": "23230",
-        "state": "VA"
-      }
-    }
-  },
-  {
-    "id": 68,
-    "eventId": "mfbddtygccbgb",
+    "id": 53,
+    "eventId": "mfbddtyfcpbdb",
     "eventName": "HackRVA Makerspace Open House!",
     "eventDescription": "<p>Come show off a project, socialize, or just hang out. Thinking about becoming a member, come on in, and tour the space. All are welcome! Thursday night has always been our social night when members hang out together. There is no program, agenda, or activity for open house. We just hang out and we invite you to come and visit with us, get a tour if you like.</p> <p>You may park in our lot. **Arrive anytime between 7pm and 9pm.**</p> <p>Hack.RVA is a member-run non-profit makerspace located in the Scott’s Addition neighborhood of Richmond, Virginia. We’re essentially a space filled with tools, computers, and people who like to build, invent, tinker, learn new skills and expand their minds. In our space you’ll find people into electronics, robots, wood working, embedded software, metal working, music, art, video, photography, 3D printing, sewing, textiles, virtual reality, gaming, lasers and much more.</p> <p>If you'd like to get some orientation about what HackRVA is and what we do before visiting, please check out our website at hackrva.org (<a href=\"http://www.hackrva.org\" class=\"linkified\">http://www.hackrva.org</a>).</p> ",
     "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/mfbddtygccbgb/",
-    "eventDate": "2024-01-04",
+    "eventURL": "https://www.meetup.com/hackrva-meetup/events/mfbddtyfcpbdb/",
+    "eventDate": "2023-11-02",
     "eventTime": "19:00",
     "eventIsOnline": "0",
     "json": {
@@ -88,13 +66,13 @@
     }
   },
   {
-    "id": 124,
-    "eventId": "hpgldtygccbgb",
+    "id": 115,
+    "eventId": "hpgldtyfcpbdb",
     "eventName": "HackRVA Makerspace Open House!",
     "eventDescription": "<p>Come show off a project, socialize, or just hang out. Thinking about becoming a member, come on in, and tour the space. All are welcome! Thursday night has always been our social night when members hang out together. There is no program, agenda, or activity for open house. We just hang out and we invite you to come and visit with us, get a tour if you like.</p> <p>You may park in our lot. **Arrive anytime between 7pm and 9pm.**</p> <p>Hack.RVA is a member-run non-profit makerspace located in the Scott’s Addition neighborhood of Richmond, Virginia. We’re essentially a space filled with tools, computers, and people who like to build, invent, tinker, learn new skills and expand their minds. In our space you’ll find people into electronics, robots, wood working, embedded software, metal working, music, art, video, photography, 3D printing, sewing, textiles, virtual reality, gaming, lasers and much more.</p> <p>If you'd like to get some orientation about what HackRVA is and what we do before visiting, please check out our website at hackrva.org (<a href=\"http://www.hackrva.org\" class=\"linkified\">http://www.hackrva.org</a>).</p> ",
     "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hpgldtygccbgb/",
-    "eventDate": "2024-01-04",
+    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hpgldtyfcpbdb/",
+    "eventDate": "2023-11-02",
     "eventTime": "19:00",
     "eventIsOnline": "0",
     "json": {
@@ -110,13 +88,13 @@
     }
   },
   {
-    "id": 183,
-    "eventId": "hkrpftygccbgb",
+    "id": 172,
+    "eventId": "hkrpftyfcpbdb",
     "eventName": "HackRVA Makerspace Open House!",
     "eventDescription": "<p>Come show off a project, socialize, or just hang out. Thinking about becoming a member, come on in, and tour the space. All are welcome! Thursday night has always been our social night when members hang out together. There is no program, agenda, or activity for open house. We just hang out and we invite you to come and visit with us, get a tour if you like.</p> <p>**Arrive anytime between 7pm and 9pm.**</p> <p>Hack.RVA is a member-run non-profit makerspace located in Richmond, Virginia. We’re essentially a space filled with tools, computers, and people who like to build, invent, tinker, learn new skills and expand their minds. In our space you’ll find people into electronics, robots, wood working, embedded software, metal working, music, art, video, photography, 3D printing, sewing, textiles, virtual reality, gaming, lasers and much more.</p> <p>If you'd like to get some orientation about what HackRVA is and what we do before visiting, please check out our website at hackrva.org (<a href=\"http://www.hackrva.org\" class=\"linkified\">http://www.hackrva.org</a>).</p> ",
     "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hkrpftygccbgb/",
-    "eventDate": "2024-01-04",
+    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hkrpftyfcpbdb/",
+    "eventDate": "2023-11-02",
     "eventTime": "19:00",
     "eventIsOnline": "0",
     "json": {
@@ -132,13 +110,13 @@
     }
   },
   {
-    "id": 69,
-    "eventId": "phtdzsygccbnb",
+    "id": 54,
+    "eventId": "phtdzsyfcpblb",
     "eventName": "Monthly Electronics Night",
     "eventDescription": "<p>Come to Hack.RVA for a night of hardware and electronics on the second Wednesday of the month. We bring our projects to share and problems to discuss with the group. If you're new to electronics, this is a great opportunity to ask questions and learn; let us know what you want to learn more about in the RSVP and we'll help get you some answers.</p> ",
     "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/phtdzsygccbnb/",
-    "eventDate": "2024-01-10",
+    "eventURL": "https://www.meetup.com/hackrva-meetup/events/phtdzsyfcpblb/",
+    "eventDate": "2023-11-08",
     "eventTime": "19:00",
     "eventIsOnline": "0",
     "json": {
@@ -154,13 +132,13 @@
     }
   },
   {
-    "id": 220,
-    "eventId": "jpfwftygccbnb",
+    "id": 218,
+    "eventId": "jpfwftyfcpblb",
     "eventName": "Monthly Electronics Night",
     "eventDescription": "<p>Come to Hack.RVA for a night of hardware and electronics on the second Wednesday of the month. We bring our projects to share and problems to discuss with the group. If you're new to electronics, this is a great opportunity to ask questions and learn; let us know what you want to learn more about in the RSVP and we'll help get you some answers.</p> ",
     "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/jpfwftygccbnb/",
-    "eventDate": "2024-01-10",
+    "eventURL": "https://www.meetup.com/hackrva-meetup/events/jpfwftyfcpblb/",
+    "eventDate": "2023-11-08",
     "eventTime": "19:00",
     "eventIsOnline": "0",
     "json": {
@@ -176,13 +154,13 @@
     }
   },
   {
-    "id": 70,
-    "eventId": "mfbddtygccbpb",
+    "id": 55,
+    "eventId": "mfbddtyfcpbmb",
     "eventName": "HackRVA Makerspace Open House!",
     "eventDescription": "<p>Come show off a project, socialize, or just hang out. Thinking about becoming a member, come on in, and tour the space. All are welcome! Thursday night has always been our social night when members hang out together. There is no program, agenda, or activity for open house. We just hang out and we invite you to come and visit with us, get a tour if you like.</p> <p>You may park in our lot. **Arrive anytime between 7pm and 9pm.**</p> <p>Hack.RVA is a member-run non-profit makerspace located in the Scott’s Addition neighborhood of Richmond, Virginia. We’re essentially a space filled with tools, computers, and people who like to build, invent, tinker, learn new skills and expand their minds. In our space you’ll find people into electronics, robots, wood working, embedded software, metal working, music, art, video, photography, 3D printing, sewing, textiles, virtual reality, gaming, lasers and much more.</p> <p>If you'd like to get some orientation about what HackRVA is and what we do before visiting, please check out our website at hackrva.org (<a href=\"http://www.hackrva.org\" class=\"linkified\">http://www.hackrva.org</a>).</p> ",
     "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/mfbddtygccbpb/",
-    "eventDate": "2024-01-11",
+    "eventURL": "https://www.meetup.com/hackrva-meetup/events/mfbddtyfcpbmb/",
+    "eventDate": "2023-11-09",
     "eventTime": "19:00",
     "eventIsOnline": "0",
     "json": {
@@ -198,13 +176,13 @@
     }
   },
   {
-    "id": 125,
-    "eventId": "hpgldtygccbpb",
+    "id": 116,
+    "eventId": "hpgldtyfcpbmb",
     "eventName": "HackRVA Makerspace Open House!",
     "eventDescription": "<p>Come show off a project, socialize, or just hang out. Thinking about becoming a member, come on in, and tour the space. All are welcome! Thursday night has always been our social night when members hang out together. There is no program, agenda, or activity for open house. We just hang out and we invite you to come and visit with us, get a tour if you like.</p> <p>You may park in our lot. **Arrive anytime between 7pm and 9pm.**</p> <p>Hack.RVA is a member-run non-profit makerspace located in the Scott’s Addition neighborhood of Richmond, Virginia. We’re essentially a space filled with tools, computers, and people who like to build, invent, tinker, learn new skills and expand their minds. In our space you’ll find people into electronics, robots, wood working, embedded software, metal working, music, art, video, photography, 3D printing, sewing, textiles, virtual reality, gaming, lasers and much more.</p> <p>If you'd like to get some orientation about what HackRVA is and what we do before visiting, please check out our website at hackrva.org (<a href=\"http://www.hackrva.org\" class=\"linkified\">http://www.hackrva.org</a>).</p> ",
     "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hpgldtygccbpb/",
-    "eventDate": "2024-01-11",
+    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hpgldtyfcpbmb/",
+    "eventDate": "2023-11-09",
     "eventTime": "19:00",
     "eventIsOnline": "0",
     "json": {
@@ -220,13 +198,13 @@
     }
   },
   {
-    "id": 184,
-    "eventId": "hkrpftygccbpb",
+    "id": 173,
+    "eventId": "hkrpftyfcpbmb",
     "eventName": "HackRVA Makerspace Open House!",
     "eventDescription": "<p>Come show off a project, socialize, or just hang out. Thinking about becoming a member, come on in, and tour the space. All are welcome! Thursday night has always been our social night when members hang out together. There is no program, agenda, or activity for open house. We just hang out and we invite you to come and visit with us, get a tour if you like.</p> <p>**Arrive anytime between 7pm and 9pm.**</p> <p>Hack.RVA is a member-run non-profit makerspace located in Richmond, Virginia. We’re essentially a space filled with tools, computers, and people who like to build, invent, tinker, learn new skills and expand their minds. In our space you’ll find people into electronics, robots, wood working, embedded software, metal working, music, art, video, photography, 3D printing, sewing, textiles, virtual reality, gaming, lasers and much more.</p> <p>If you'd like to get some orientation about what HackRVA is and what we do before visiting, please check out our website at hackrva.org (<a href=\"http://www.hackrva.org\" class=\"linkified\">http://www.hackrva.org</a>).</p> ",
     "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hkrpftygccbpb/",
-    "eventDate": "2024-01-11",
+    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hkrpftyfcpbmb/",
+    "eventDate": "2023-11-09",
     "eventTime": "19:00",
     "eventIsOnline": "0",
     "json": {
@@ -242,13 +220,13 @@
     }
   },
   {
-    "id": 237,
-    "eventId": "hzkjgtygccbwb",
+    "id": 235,
+    "eventId": "hzkjgtyfcpbtb",
     "eventName": "Open Craft Night",
     "eventDescription": "<p>Come on over to HackRVA's new location and hangout and work on a craft you've started, or want to start, or come dream big ideas with us.</p> <p>Crafting includes all sorts from yarn and textiles like knitting, crocheting, rug -tufting, or visible mending; all the way to building Lego sets or leather working!</p> <p>While not necessarily a planned time to teach how to use equipment at Hack, it can be if a member has plans ready to go (like with the vinyl cutter to make stickers).</p> <p>Please bring any items needed to work on your craft project or come show off your wonderful work.</p> <p>Open Craft Night is a free event open to the public. HackRVA is a open and welcoming space for everyone. Come on time, or late, it's all ok!</p> ",
     "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hzkjgtygccbwb/",
-    "eventDate": "2024-01-17",
+    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hzkjgtyfcpbtb/",
+    "eventDate": "2023-11-15",
     "eventTime": "19:00",
     "eventIsOnline": "0",
     "json": {
@@ -264,13 +242,13 @@
     }
   },
   {
-    "id": 71,
-    "eventId": "mfbddtygccbxb",
+    "id": 56,
+    "eventId": "mfbddtyfcpbvb",
     "eventName": "HackRVA Makerspace Open House!",
     "eventDescription": "<p>Come show off a project, socialize, or just hang out. Thinking about becoming a member, come on in, and tour the space. All are welcome! Thursday night has always been our social night when members hang out together. There is no program, agenda, or activity for open house. We just hang out and we invite you to come and visit with us, get a tour if you like.</p> <p>You may park in our lot. **Arrive anytime between 7pm and 9pm.**</p> <p>Hack.RVA is a member-run non-profit makerspace located in the Scott’s Addition neighborhood of Richmond, Virginia. We’re essentially a space filled with tools, computers, and people who like to build, invent, tinker, learn new skills and expand their minds. In our space you’ll find people into electronics, robots, wood working, embedded software, metal working, music, art, video, photography, 3D printing, sewing, textiles, virtual reality, gaming, lasers and much more.</p> <p>If you'd like to get some orientation about what HackRVA is and what we do before visiting, please check out our website at hackrva.org (<a href=\"http://www.hackrva.org\" class=\"linkified\">http://www.hackrva.org</a>).</p> ",
     "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/mfbddtygccbxb/",
-    "eventDate": "2024-01-18",
+    "eventURL": "https://www.meetup.com/hackrva-meetup/events/mfbddtyfcpbvb/",
+    "eventDate": "2023-11-16",
     "eventTime": "19:00",
     "eventIsOnline": "0",
     "json": {
@@ -286,13 +264,13 @@
     }
   },
   {
-    "id": 126,
-    "eventId": "hpgldtygccbxb",
+    "id": 117,
+    "eventId": "hpgldtyfcpbvb",
     "eventName": "HackRVA Makerspace Open House!",
     "eventDescription": "<p>Come show off a project, socialize, or just hang out. Thinking about becoming a member, come on in, and tour the space. All are welcome! Thursday night has always been our social night when members hang out together. There is no program, agenda, or activity for open house. We just hang out and we invite you to come and visit with us, get a tour if you like.</p> <p>You may park in our lot. **Arrive anytime between 7pm and 9pm.**</p> <p>Hack.RVA is a member-run non-profit makerspace located in the Scott’s Addition neighborhood of Richmond, Virginia. We’re essentially a space filled with tools, computers, and people who like to build, invent, tinker, learn new skills and expand their minds. In our space you’ll find people into electronics, robots, wood working, embedded software, metal working, music, art, video, photography, 3D printing, sewing, textiles, virtual reality, gaming, lasers and much more.</p> <p>If you'd like to get some orientation about what HackRVA is and what we do before visiting, please check out our website at hackrva.org (<a href=\"http://www.hackrva.org\" class=\"linkified\">http://www.hackrva.org</a>).</p> ",
     "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hpgldtygccbxb/",
-    "eventDate": "2024-01-18",
+    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hpgldtyfcpbvb/",
+    "eventDate": "2023-11-16",
     "eventTime": "19:00",
     "eventIsOnline": "0",
     "json": {
@@ -308,13 +286,13 @@
     }
   },
   {
-    "id": 185,
-    "eventId": "hkrpftygccbxb",
+    "id": 174,
+    "eventId": "hkrpftyfcpbvb",
     "eventName": "HackRVA Makerspace Open House!",
     "eventDescription": "<p>Come show off a project, socialize, or just hang out. Thinking about becoming a member, come on in, and tour the space. All are welcome! Thursday night has always been our social night when members hang out together. There is no program, agenda, or activity for open house. We just hang out and we invite you to come and visit with us, get a tour if you like.</p> <p>**Arrive anytime between 7pm and 9pm.**</p> <p>Hack.RVA is a member-run non-profit makerspace located in Richmond, Virginia. We’re essentially a space filled with tools, computers, and people who like to build, invent, tinker, learn new skills and expand their minds. In our space you’ll find people into electronics, robots, wood working, embedded software, metal working, music, art, video, photography, 3D printing, sewing, textiles, virtual reality, gaming, lasers and much more.</p> <p>If you'd like to get some orientation about what HackRVA is and what we do before visiting, please check out our website at hackrva.org (<a href=\"http://www.hackrva.org\" class=\"linkified\">http://www.hackrva.org</a>).</p> ",
     "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hkrpftygccbxb/",
-    "eventDate": "2024-01-18",
+    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hkrpftyfcpbvb/",
+    "eventDate": "2023-11-16",
     "eventTime": "19:00",
     "eventIsOnline": "0",
     "json": {
@@ -330,13 +308,13 @@
     }
   },
   {
-    "id": 72,
-    "eventId": "mfbddtygccbhc",
+    "id": 57,
+    "eventId": "mfbddtyfcpbfc",
     "eventName": "HackRVA Makerspace Open House!",
     "eventDescription": "<p>Come show off a project, socialize, or just hang out. Thinking about becoming a member, come on in, and tour the space. All are welcome! Thursday night has always been our social night when members hang out together. There is no program, agenda, or activity for open house. We just hang out and we invite you to come and visit with us, get a tour if you like.</p> <p>You may park in our lot. **Arrive anytime between 7pm and 9pm.**</p> <p>Hack.RVA is a member-run non-profit makerspace located in the Scott’s Addition neighborhood of Richmond, Virginia. We’re essentially a space filled with tools, computers, and people who like to build, invent, tinker, learn new skills and expand their minds. In our space you’ll find people into electronics, robots, wood working, embedded software, metal working, music, art, video, photography, 3D printing, sewing, textiles, virtual reality, gaming, lasers and much more.</p> <p>If you'd like to get some orientation about what HackRVA is and what we do before visiting, please check out our website at hackrva.org (<a href=\"http://www.hackrva.org\" class=\"linkified\">http://www.hackrva.org</a>).</p> ",
     "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/mfbddtygccbhc/",
-    "eventDate": "2024-01-25",
+    "eventURL": "https://www.meetup.com/hackrva-meetup/events/mfbddtyfcpbfc/",
+    "eventDate": "2023-11-23",
     "eventTime": "19:00",
     "eventIsOnline": "0",
     "json": {
@@ -352,13 +330,13 @@
     }
   },
   {
-    "id": 127,
-    "eventId": "hpgldtygccbhc",
+    "id": 118,
+    "eventId": "hpgldtyfcpbfc",
     "eventName": "HackRVA Makerspace Open House!",
     "eventDescription": "<p>Come show off a project, socialize, or just hang out. Thinking about becoming a member, come on in, and tour the space. All are welcome! Thursday night has always been our social night when members hang out together. There is no program, agenda, or activity for open house. We just hang out and we invite you to come and visit with us, get a tour if you like.</p> <p>You may park in our lot. **Arrive anytime between 7pm and 9pm.**</p> <p>Hack.RVA is a member-run non-profit makerspace located in the Scott’s Addition neighborhood of Richmond, Virginia. We’re essentially a space filled with tools, computers, and people who like to build, invent, tinker, learn new skills and expand their minds. In our space you’ll find people into electronics, robots, wood working, embedded software, metal working, music, art, video, photography, 3D printing, sewing, textiles, virtual reality, gaming, lasers and much more.</p> <p>If you'd like to get some orientation about what HackRVA is and what we do before visiting, please check out our website at hackrva.org (<a href=\"http://www.hackrva.org\" class=\"linkified\">http://www.hackrva.org</a>).</p> ",
     "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hpgldtygccbhc/",
-    "eventDate": "2024-01-25",
+    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hpgldtyfcpbfc/",
+    "eventDate": "2023-11-23",
     "eventTime": "19:00",
     "eventIsOnline": "0",
     "json": {
@@ -374,13 +352,13 @@
     }
   },
   {
-    "id": 186,
-    "eventId": "hkrpftygccbhc",
+    "id": 175,
+    "eventId": "hkrpftyfcpbfc",
     "eventName": "HackRVA Makerspace Open House!",
     "eventDescription": "<p>Come show off a project, socialize, or just hang out. Thinking about becoming a member, come on in, and tour the space. All are welcome! Thursday night has always been our social night when members hang out together. There is no program, agenda, or activity for open house. We just hang out and we invite you to come and visit with us, get a tour if you like.</p> <p>**Arrive anytime between 7pm and 9pm.**</p> <p>Hack.RVA is a member-run non-profit makerspace located in Richmond, Virginia. We’re essentially a space filled with tools, computers, and people who like to build, invent, tinker, learn new skills and expand their minds. In our space you’ll find people into electronics, robots, wood working, embedded software, metal working, music, art, video, photography, 3D printing, sewing, textiles, virtual reality, gaming, lasers and much more.</p> <p>If you'd like to get some orientation about what HackRVA is and what we do before visiting, please check out our website at hackrva.org (<a href=\"http://www.hackrva.org\" class=\"linkified\">http://www.hackrva.org</a>).</p> ",
     "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hkrpftygccbhc/",
-    "eventDate": "2024-01-25",
+    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hkrpftyfcpbfc/",
+    "eventDate": "2023-11-23",
     "eventTime": "19:00",
     "eventIsOnline": "0",
     "json": {
@@ -396,35 +374,35 @@
     }
   },
   {
-    "id": 73,
-    "eventId": "vswkctygccbnc",
+    "id": 58,
+    "eventId": "vswkctyfcpblc",
     "eventName": "Open Code: log in and code",
     "eventDescription": "<p>This is an online event, and we will send the link to all who RSVP when the time is near.</p> <p>All are welcome, whether just starting out or level 9000!<br/>Come on in, jam on some code. Bring your project or work through an online tutorial. We recommend freecodecamp.org</p> <p>Time is 630pm to 830pm -- the last Tuesday of the month.<br/>There will be code knowledgeable people around for explanation or conversation. We will try to help each other with what we know, sharing tips and tools. Happy hacking!</p> ",
     "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/vswkctygccbnc/",
-    "eventDate": "2024-01-30",
+    "eventURL": "https://www.meetup.com/hackrva-meetup/events/vswkctyfcpblc/",
+    "eventDate": "2023-11-28",
     "eventTime": "18:30",
     "eventIsOnline": "1",
     "json": {
       "venue": {
-        "name": "HackRVA Makerspace",
+        "name": "Online event",
+        "country": "",
+        "localized_country_name": "",
         "address_1": "1600E Roseneath Rd",
         "city": "Richmond",
-        "country": "us",
-        "localized_country_name": "USA",
         "zip": "23230",
         "state": "VA"
       }
     }
   },
   {
-    "id": 74,
-    "eventId": "mfbddtygcdbcb",
+    "id": 59,
+    "eventId": "mfbddtyfcpbnc",
     "eventName": "HackRVA Makerspace Open House!",
     "eventDescription": "<p>Come show off a project, socialize, or just hang out. Thinking about becoming a member, come on in, and tour the space. All are welcome! Thursday night has always been our social night when members hang out together. There is no program, agenda, or activity for open house. We just hang out and we invite you to come and visit with us, get a tour if you like.</p> <p>You may park in our lot. **Arrive anytime between 7pm and 9pm.**</p> <p>Hack.RVA is a member-run non-profit makerspace located in the Scott’s Addition neighborhood of Richmond, Virginia. We’re essentially a space filled with tools, computers, and people who like to build, invent, tinker, learn new skills and expand their minds. In our space you’ll find people into electronics, robots, wood working, embedded software, metal working, music, art, video, photography, 3D printing, sewing, textiles, virtual reality, gaming, lasers and much more.</p> <p>If you'd like to get some orientation about what HackRVA is and what we do before visiting, please check out our website at hackrva.org (<a href=\"http://www.hackrva.org\" class=\"linkified\">http://www.hackrva.org</a>).</p> ",
     "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/mfbddtygcdbcb/",
-    "eventDate": "2024-02-01",
+    "eventURL": "https://www.meetup.com/hackrva-meetup/events/mfbddtyfcpbnc/",
+    "eventDate": "2023-11-30",
     "eventTime": "19:00",
     "eventIsOnline": "0",
     "json": {
@@ -440,13 +418,13 @@
     }
   },
   {
-    "id": 128,
-    "eventId": "hpgldtygcdbcb",
+    "id": 119,
+    "eventId": "hpgldtyfcpbnc",
     "eventName": "HackRVA Makerspace Open House!",
     "eventDescription": "<p>Come show off a project, socialize, or just hang out. Thinking about becoming a member, come on in, and tour the space. All are welcome! Thursday night has always been our social night when members hang out together. There is no program, agenda, or activity for open house. We just hang out and we invite you to come and visit with us, get a tour if you like.</p> <p>You may park in our lot. **Arrive anytime between 7pm and 9pm.**</p> <p>Hack.RVA is a member-run non-profit makerspace located in the Scott’s Addition neighborhood of Richmond, Virginia. We’re essentially a space filled with tools, computers, and people who like to build, invent, tinker, learn new skills and expand their minds. In our space you’ll find people into electronics, robots, wood working, embedded software, metal working, music, art, video, photography, 3D printing, sewing, textiles, virtual reality, gaming, lasers and much more.</p> <p>If you'd like to get some orientation about what HackRVA is and what we do before visiting, please check out our website at hackrva.org (<a href=\"http://www.hackrva.org\" class=\"linkified\">http://www.hackrva.org</a>).</p> ",
     "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hpgldtygcdbcb/",
-    "eventDate": "2024-02-01",
+    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hpgldtyfcpbnc/",
+    "eventDate": "2023-11-30",
     "eventTime": "19:00",
     "eventIsOnline": "0",
     "json": {
@@ -462,239 +440,19 @@
     }
   },
   {
-    "id": 187,
-    "eventId": "hkrpftygcdbcb",
+    "id": 176,
+    "eventId": "hkrpftyfcpbnc",
     "eventName": "HackRVA Makerspace Open House!",
     "eventDescription": "<p>Come show off a project, socialize, or just hang out. Thinking about becoming a member, come on in, and tour the space. All are welcome! Thursday night has always been our social night when members hang out together. There is no program, agenda, or activity for open house. We just hang out and we invite you to come and visit with us, get a tour if you like.</p> <p>**Arrive anytime between 7pm and 9pm.**</p> <p>Hack.RVA is a member-run non-profit makerspace located in Richmond, Virginia. We’re essentially a space filled with tools, computers, and people who like to build, invent, tinker, learn new skills and expand their minds. In our space you’ll find people into electronics, robots, wood working, embedded software, metal working, music, art, video, photography, 3D printing, sewing, textiles, virtual reality, gaming, lasers and much more.</p> <p>If you'd like to get some orientation about what HackRVA is and what we do before visiting, please check out our website at hackrva.org (<a href=\"http://www.hackrva.org\" class=\"linkified\">http://www.hackrva.org</a>).</p> ",
     "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hkrpftygcdbcb/",
-    "eventDate": "2024-02-01",
+    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hkrpftyfcpbnc/",
+    "eventDate": "2023-11-30",
     "eventTime": "19:00",
     "eventIsOnline": "0",
     "json": {
       "venue": {
         "name": "2026a Dabney Rd",
         "address_1": "2026a Dabney Rd",
-        "city": "Richmond",
-        "country": "us",
-        "localized_country_name": "USA",
-        "zip": "23230",
-        "state": "VA"
-      }
-    }
-  },
-  {
-    "id": 75,
-    "eventId": "hckxctygcdbkb",
-    "eventName": "HackRVA Space Improvement",
-    "eventDescription": "<p>Once a month, we ask members to come in to work on our shared workspace, and concentrate on this project we all share. We have no staff, so that means WE are the staff.<br/>Tasks can include, but are not limited to: cleaning up, working on the website/wiki, identifying and fixing/labeling equipment, developing training processes, and a lot more! Take a look around, and find anything out of place, whether tools or trash, and deal with it.</p> ",
-    "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hckxctygcdbkb/",
-    "eventDate": "2024-02-07",
-    "eventTime": "19:00",
-    "eventIsOnline": "0",
-    "json": {
-      "venue": {
-        "name": "HackRVA Makerspace",
-        "address_1": "1600E Roseneath Rd",
-        "city": "Richmond",
-        "country": "us",
-        "localized_country_name": "USA",
-        "zip": "23230",
-        "state": "VA"
-      }
-    }
-  },
-  {
-    "id": 188,
-    "eventId": "hjrpftygcdbkb",
-    "eventName": "HackRVA Space Improvement",
-    "eventDescription": "<p>Once a month, we ask members to come in to work on our shared workspace, and concentrate on this project we all share. We have no staff, so that means WE are the staff.<br/>This month we will continue setting up the new space.</p> ",
-    "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hjrpftygcdbkb/",
-    "eventDate": "2024-02-07",
-    "eventTime": "19:00",
-    "eventIsOnline": "0",
-    "json": {
-      "venue": {
-        "name": "2026a Dabney Rd",
-        "address_1": "2026a Dabney Rd",
-        "city": "Richmond",
-        "country": "us",
-        "localized_country_name": "USA",
-        "zip": "23230",
-        "state": "VA"
-      }
-    }
-  },
-  {
-    "id": 251,
-    "eventId": "ngkwgtygcdbkb",
-    "eventName": "HackRVA Space Improvement",
-    "eventDescription": "<p>Once a month, we ask members to come in to work on our shared workspace, and concentrate on this project we all share. We have no staff, so that means WE are the staff.</p> <p>This month we will continue setting up the new space.</p> ",
-    "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/ngkwgtygcdbkb/",
-    "eventDate": "2024-02-07",
-    "eventTime": "19:00",
-    "eventIsOnline": "0",
-    "json": {
-      "venue": {
-        "name": "2026a Dabney Rd",
-        "address_1": "2026a Dabney Rd",
-        "city": "Richmond",
-        "country": "us",
-        "localized_country_name": "USA",
-        "zip": "23230",
-        "state": "VA"
-      }
-    }
-  },
-  {
-    "id": 283,
-    "eventId": "nlmhjtygcdbkb",
-    "eventName": "HackRVA Space Improvement",
-    "eventDescription": "<p>Once a month, we ask members to come in to work on our shared workspace. Tasks include minor cleaning, as well as whatever you would like to do to improve the physical Hack.RVA space.</p> ",
-    "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/nlmhjtygcdbkb/",
-    "eventDate": "2024-02-07",
-    "eventTime": "19:00",
-    "eventIsOnline": "0",
-    "json": {
-      "venue": {
-        "name": "2026a Dabney Rd",
-        "address_1": "2026a Dabney Rd",
-        "city": "Richmond",
-        "country": "us",
-        "localized_country_name": "USA",
-        "zip": "23230",
-        "state": "VA"
-      }
-    }
-  },
-  {
-    "id": 76,
-    "eventId": "mfbddtygcdblb",
-    "eventName": "HackRVA Makerspace Open House!",
-    "eventDescription": "<p>Come show off a project, socialize, or just hang out. Thinking about becoming a member, come on in, and tour the space. All are welcome! Thursday night has always been our social night when members hang out together. There is no program, agenda, or activity for open house. We just hang out and we invite you to come and visit with us, get a tour if you like.</p> <p>You may park in our lot. **Arrive anytime between 7pm and 9pm.**</p> <p>Hack.RVA is a member-run non-profit makerspace located in the Scott’s Addition neighborhood of Richmond, Virginia. We’re essentially a space filled with tools, computers, and people who like to build, invent, tinker, learn new skills and expand their minds. In our space you’ll find people into electronics, robots, wood working, embedded software, metal working, music, art, video, photography, 3D printing, sewing, textiles, virtual reality, gaming, lasers and much more.</p> <p>If you'd like to get some orientation about what HackRVA is and what we do before visiting, please check out our website at hackrva.org (<a href=\"http://www.hackrva.org\" class=\"linkified\">http://www.hackrva.org</a>).</p> ",
-    "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/mfbddtygcdblb/",
-    "eventDate": "2024-02-08",
-    "eventTime": "19:00",
-    "eventIsOnline": "0",
-    "json": {
-      "venue": {
-        "name": "HackRVA Makerspace",
-        "address_1": "1600E Roseneath Rd",
-        "city": "Richmond",
-        "country": "us",
-        "localized_country_name": "USA",
-        "zip": "23230",
-        "state": "VA"
-      }
-    }
-  },
-  {
-    "id": 129,
-    "eventId": "hpgldtygcdblb",
-    "eventName": "HackRVA Makerspace Open House!",
-    "eventDescription": "<p>Come show off a project, socialize, or just hang out. Thinking about becoming a member, come on in, and tour the space. All are welcome! Thursday night has always been our social night when members hang out together. There is no program, agenda, or activity for open house. We just hang out and we invite you to come and visit with us, get a tour if you like.</p> <p>You may park in our lot. **Arrive anytime between 7pm and 9pm.**</p> <p>Hack.RVA is a member-run non-profit makerspace located in the Scott’s Addition neighborhood of Richmond, Virginia. We’re essentially a space filled with tools, computers, and people who like to build, invent, tinker, learn new skills and expand their minds. In our space you’ll find people into electronics, robots, wood working, embedded software, metal working, music, art, video, photography, 3D printing, sewing, textiles, virtual reality, gaming, lasers and much more.</p> <p>If you'd like to get some orientation about what HackRVA is and what we do before visiting, please check out our website at hackrva.org (<a href=\"http://www.hackrva.org\" class=\"linkified\">http://www.hackrva.org</a>).</p> ",
-    "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hpgldtygcdblb/",
-    "eventDate": "2024-02-08",
-    "eventTime": "19:00",
-    "eventIsOnline": "0",
-    "json": {
-      "venue": {
-        "name": "HackRVA Makerspace",
-        "address_1": "1600E Roseneath Rd",
-        "city": "Richmond",
-        "country": "us",
-        "localized_country_name": "USA",
-        "zip": "23230",
-        "state": "VA"
-      }
-    }
-  },
-  {
-    "id": 189,
-    "eventId": "hkrpftygcdblb",
-    "eventName": "HackRVA Makerspace Open House!",
-    "eventDescription": "<p>Come show off a project, socialize, or just hang out. Thinking about becoming a member, come on in, and tour the space. All are welcome! Thursday night has always been our social night when members hang out together. There is no program, agenda, or activity for open house. We just hang out and we invite you to come and visit with us, get a tour if you like.</p> <p>**Arrive anytime between 7pm and 9pm.**</p> <p>Hack.RVA is a member-run non-profit makerspace located in Richmond, Virginia. We’re essentially a space filled with tools, computers, and people who like to build, invent, tinker, learn new skills and expand their minds. In our space you’ll find people into electronics, robots, wood working, embedded software, metal working, music, art, video, photography, 3D printing, sewing, textiles, virtual reality, gaming, lasers and much more.</p> <p>If you'd like to get some orientation about what HackRVA is and what we do before visiting, please check out our website at hackrva.org (<a href=\"http://www.hackrva.org\" class=\"linkified\">http://www.hackrva.org</a>).</p> ",
-    "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/hkrpftygcdblb/",
-    "eventDate": "2024-02-08",
-    "eventTime": "19:00",
-    "eventIsOnline": "0",
-    "json": {
-      "venue": {
-        "name": "2026a Dabney Rd",
-        "address_1": "2026a Dabney Rd",
-        "city": "Richmond",
-        "country": "us",
-        "localized_country_name": "USA",
-        "zip": "23230",
-        "state": "VA"
-      }
-    }
-  },
-  {
-    "id": 77,
-    "eventId": "phtdzsygcdbsb",
-    "eventName": "Monthly Electronics Night",
-    "eventDescription": "<p>Come to Hack.RVA for a night of hardware and electronics on the second Wednesday of the month. We bring our projects to share and problems to discuss with the group. If you're new to electronics, this is a great opportunity to ask questions and learn; let us know what you want to learn more about in the RSVP and we'll help get you some answers.</p> ",
-    "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/phtdzsygcdbsb/",
-    "eventDate": "2024-02-14",
-    "eventTime": "19:00",
-    "eventIsOnline": "0",
-    "json": {
-      "venue": {
-        "name": "HackRVA Makerspace",
-        "address_1": "2026A Dabney Rd",
-        "city": "Richmond",
-        "country": "us",
-        "localized_country_name": "USA",
-        "zip": "23230",
-        "state": "VA"
-      }
-    }
-  },
-  {
-    "id": 221,
-    "eventId": "jpfwftygcdbsb",
-    "eventName": "Monthly Electronics Night",
-    "eventDescription": "<p>Come to Hack.RVA for a night of hardware and electronics on the second Wednesday of the month. We bring our projects to share and problems to discuss with the group. If you're new to electronics, this is a great opportunity to ask questions and learn; let us know what you want to learn more about in the RSVP and we'll help get you some answers.</p> ",
-    "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/jpfwftygcdbsb/",
-    "eventDate": "2024-02-14",
-    "eventTime": "19:00",
-    "eventIsOnline": "0",
-    "json": {
-      "venue": {
-        "name": "HackRVA Makerspace",
-        "address_1": "2026A Dabney Rd",
-        "city": "Richmond",
-        "country": "us",
-        "localized_country_name": "USA",
-        "zip": "23230",
-        "state": "VA"
-      }
-    }
-  },
-  {
-    "id": 309,
-    "eventId": "vlxcktygcdbsb",
-    "eventName": "Monthly Electronics Night",
-    "eventDescription": "<p>Come to Hack.RVA for a night of hardware and electronics on the second Wednesday of the month. We bring our projects to share and problems to discuss with the group. If you're new to electronics, this is a great opportunity to ask questions and learn; let us know what you want to learn more about in the RSVP and we'll help get you some answers.</p> ",
-    "eventPrice": "free",
-    "eventURL": "https://www.meetup.com/hackrva-meetup/events/vlxcktygcdbsb/",
-    "eventDate": "2024-02-14",
-    "eventTime": "19:00",
-    "eventIsOnline": "0",
-    "json": {
-      "venue": {
-        "name": "HackRVA Makerspace",
-        "address_1": "2026A Dabney Rd",
         "city": "Richmond",
         "country": "us",
         "localized_country_name": "USA",

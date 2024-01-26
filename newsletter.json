@@ -1,8 +1,8 @@
 {
-    "month": "August",
-    "welcomeImageURL": "august.jpg",
-    "mindate": "2023-08-01",
-    "maxdate": "2023-08-31",
+    "month": "Jjanuary",
+    "welcomeImageURL": "january.png",
+    "mindate": "2024-01-01",
+    "maxdate": "2024-01-31",
     
     "blogURL": "https://www.hackrva.org/blog/",
     "meetupURL": "https://www.meetup.com/hackrva-meetup/",
@@ -10,7 +10,7 @@
     "email": "info@hackrva.org",
     "phone": "(no phone)",
     "addr1": "HackRVA",
-    "addr2": "3404 W. Moore St",
+    "addr2": "2026A Dabney Road",
     "addr3": "Richmond, VA 23230",
     "meetupEmail": "HackRVA-Meetup-announce@meetup.com",
     "ses": {
