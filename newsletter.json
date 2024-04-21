@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
     "month": "January",
+=======
+    "month": "Jjanuary",
+>>>>>>> 7aae341fb69a1f9206833449079bd617981ec064
     "welcomeImageURL": "january.png",
     "mindate": "2024-01-01",
     "maxdate": "2024-01-31",
